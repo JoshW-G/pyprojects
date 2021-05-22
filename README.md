@@ -12,3 +12,6 @@ Calculates the covariance of a matrix (first step in principal component analysi
 
 # income tax 
 Added incomeCalc.py a script to work out income left over after income tax and rent
+
+#incomecalc
+Added incomeCalc.py a script to work out income left over after income tax and rent
