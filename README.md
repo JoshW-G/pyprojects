@@ -9,3 +9,6 @@ Converts integers to roman numerals
 
 # covariance
 Calculates the covariance of a matrix (first step in principal component analysis)
+
+# income tax 
+Added incomeCalc.py a script to work out income left over after income tax and rent
